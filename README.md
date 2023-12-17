@@ -7,4 +7,4 @@ I'm currently a 3rd year student at Northeastern University studying Computer Sc
 
 ![Picture of the North End of Boston](https://github.com/aidandomondon/aidandomondon/blob/main/ai_ml.png?raw=true)
 
-Boston's North End as seen from the Verizon building (taken by me)
+<sub><sub>Boston's North End as seen from the Verizon building (taken by me)</sub></sub>
