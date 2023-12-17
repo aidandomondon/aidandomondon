@@ -7,4 +7,4 @@ I'm currently a 3rd year student at Northeastern University studying Computer Sc
 
 ![Picture of the North End of Boston](https://github.com/aidandomondon/aidandomondon/blob/main/ai_ml.png?raw=true)
 
-Here's a picture I took of the North End of Boston from the Verizon building at the Hub on 98 Causeway.
+View of the North End of Boston from the Verizon building at the Hub on 98 Causeway (Taken by me).
