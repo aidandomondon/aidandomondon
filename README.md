@@ -5,4 +5,4 @@
 **aidandomondon/aidandomondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a 3rd year student at Northeastern University studying Computer Science and Mathematics.
+    I'm currently a 3rd year student at Northeastern University studying Computer Science and Mathematics. Some of my interests in computer science include machine learning, computability theory, and complexity theory.
