@@ -6,3 +6,5 @@
 -->
 
     I'm currently a 3rd year student at Northeastern University studying Computer Science and Mathematics. Some of my interests in computer science include machine learning, computability theory, and complexity theory.
+
+![New York Yankees](Screenshot 2023-0-15 at 8:44:14PM.png "Title")
