@@ -1,4 +1,5 @@
-### Welcome to my GitHub Page - Aidan
+### Welcome to my GitHub Page 
+- Aidan
 
 <!--
 **aidandomondon/aidandomondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
