@@ -8,6 +8,7 @@ I'm a recent grad from Northeastern University who studied Computer Science + Ma
 Broadly, I'm interested in:
 - Web Development
 - Data Analysis, Engineering, and Visualization
+- Local/Desktop App Development
 
 
 ***
