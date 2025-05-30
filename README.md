@@ -1,8 +1,21 @@
 ### Welcome to Aidan Domondon's GitHub Page 
 
-**ABOUT ME**
+```
+{
+  name: "Aidan Domondon,
+  alma_mater: "Northeastern University",
+  major: ["Computer Science", "Mathematics"],
+  interests: [
+    "Web Development",
+    "Desktop Development",
+    "Data Analysis, Engineering, and Visualization",
+    "Machine Learning"
+  ]
+}
+```
 
-I'm a recent grad from Northeastern University who studied Computer Science + Math. 
+Hi! I'm Aidan, a recent grad from Northeastern University.
+I studied Computer Science + Math. 
 
 
 Broadly, I'm interested in:
