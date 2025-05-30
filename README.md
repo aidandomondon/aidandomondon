@@ -1,28 +1,19 @@
 ### Welcome to Aidan Domondon's GitHub Page 
 
-```
-{
-  name: "Aidan Domondon,
-  alma_mater: "Northeastern University",
-  major: ["Computer Science", "Mathematics"],
-  interests: [
-    "Web Development",
-    "Desktop Development",
-    "Data Analysis, Engineering, and Visualization",
-    "Machine Learning"
-  ]
-}
-```
+👋 I'm Aidan, a recent grad from Northeastern University.
 
-Hi! I'm Aidan, a recent grad from Northeastern University.
-I studied Computer Science + Math. 
-
+I studied Computer Science and Math.
 
 Broadly, I'm interested in:
 - Web Development
 - Data Analysis, Engineering, and Visualization
-- Local/Desktop App Development
+- Desktop Development
+- Machine Learning
 
+I write software such as:
+- A [privacy-focused, offline chatbot][https://github.com/aidandomondon/tarragon] that you can talk to about your personal documents.
+- A [mental-health-forward social network][https://github.com/aidandomondon/comebacksunday] with engineered breaks to prevent doomscrolling and digital overconsumption.
+- A [personal website][https://aidandomondon.github.io] to showcase my professional and academic endeavors.
 
 ***
 
