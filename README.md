@@ -1,8 +1,8 @@
 ### Welcome to Aidan Domondon's GitHub Page 
 
-👋 I'm Aidan, a recent grad from Northeastern University.
+👋 I'm Aidan, a graduate student from Northeastern University.
 
-I studied Computer Science and Math.
+I study Computer Science.
 
 Broadly, I'm interested in:
 - Web Development
