@@ -13,7 +13,3 @@ I build software such as:
 - A [mental-health-forward social network](http://comebacksunday.pythonanywhere.com) with engineered breaks to prevent doomscrolling and digital overconsumption.
 - A [personal website](https://aidandomondon.github.io) to showcase my professional and academic endeavors.
 - A [privacy-focused, offline chatbot](https://github.com/aidandomondon/tarragon) that you can talk to about your personal documents.
-
-***
-
-![Picture of the North End of Boston](https://github.com/aidandomondon/aidandomondon/blob/main/ai_ml.webp?raw=true)
